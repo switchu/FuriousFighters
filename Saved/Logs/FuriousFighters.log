@@ -1281,3 +1281,13 @@ LogConfig: Set CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2025.11.14-21.49.50:986][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10.584724, Update Interval: 333.417755
 [2025.11.14-21.49.53:612][ 17]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/opitz/Documents/Unreal Projects/FuriousFighters/Content/' took 5.57s
 [2025.11.14-21.51.37:941][331]LogDerivedDataCache: C:/Users/opitz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.14-21.55.24:509][ 10]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 344.440704
+[2025.11.14-21.55.25:509][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.14-21.55.25:509][ 14]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 345.105499, Update Interval: 302.266907
+[2025.11.14-22.00.29:802][930]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 649.732178
+[2025.11.14-22.00.30:799][933]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.14-22.00.30:799][933]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 650.395935, Update Interval: 307.668701
+[2025.11.14-22.02.51:963][441]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.11.14-22.05.44:002][ 75]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 963.930115
+[2025.11.14-22.05.45:001][ 78]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.14-22.05.45:001][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 964.596069, Update Interval: 353.920715
